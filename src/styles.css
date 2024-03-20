@@ -1,0 +1,7 @@
+// 添加基础样式
+/* 基础样式 */
+.button {
+  padding: 8px 16px;
+  border-radius: 4px;
+  cursor: pointer;
+}
