@@ -5,3 +5,10 @@
   border-radius: 4px;
   cursor: pointer;
 }
+// 添加输入框样式
+
+.input {
+  padding: 8px 12px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
