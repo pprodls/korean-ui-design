@@ -12,3 +12,10 @@
   border: 1px solid #ddd;
   border-radius: 4px;
 }
+// 添加响应式支持
+
+@media (max-width: 768px) {
+  .button {
+    width: 100%;
+  }
+}
