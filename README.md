@@ -1,3 +1,82 @@
-# 프로젝트 개요
-## about project
-처음으로 만드는 프로젝트
+# 我的项目 (My Project)
+
+一个现代化的UI设计项目
+
+## 项目简介
+
+这是一个专注于用户界面设计的项目，提供简洁、美观、易用的UI组件和设计方案。
+
+## 功能特性
+
+- 🎨 现代化UI设计
+- 📱 响应式布局
+- ✨ 流畅的动画效果
+- 🎯 用户体验优化
+- 🔧 组件化设计
+- 🌈 丰富的主题配色
+
+## 技术栈
+
+- HTML5 / CSS3
+- JavaScript (ES6+)
+- 现代前端框架
+- UI/UX设计原则
+
+## 快速开始
+
+`ash
+# 克隆项目
+git clone https://github.com/wucald25641/my_project.git
+
+# 进入项目目录
+cd my_project
+
+# 查看项目结构
+ls -la
+`
+
+## 项目结构
+
+`
+my_project/
+├── src/              # 源代码
+│   ├── components/   # UI组件
+│   ├── styles/       # 样式文件
+│   └── assets/       # 静态资源
+├── docs/             # 文档
+├── examples/         # 示例
+└── README.md         # 项目说明
+`
+
+## 设计原则
+
+1. **简洁性** - 界面简洁，操作直观
+2. **一致性** - 统一的设计语言和交互模式
+3. **可访问性** - 支持多种设备和辅助功能
+4. **性能优先** - 优化加载速度和运行效率
+
+## 使用场景
+
+- 📱 移动应用界面
+- 🖥️ 桌面应用界面
+- 🌐 网页界面设计
+- 📊 数据可视化界面
+- 🎮 游戏界面设计
+
+## 贡献指南
+
+欢迎提交Issue和Pull Request！
+
+1. Fork 项目
+2. 创建功能分支 (git checkout -b feature/AmazingFeature)
+3. 提交更改 (git commit -m '添加某个功能')
+4. 推送到分支 (git push origin feature/AmazingFeature)
+5. 创建 Pull Request
+
+## 许可证
+
+MIT License
+
+## 更新日志
+
+- 2026-07-17: 更新中文README文档
